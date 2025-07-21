@@ -4,4 +4,4 @@ This repository contains all the materials used in learning CS224N natural langu
    + [ ] a2
    + [ ] a2
    + [ ] a4
-+ [ ]Project
+ + [ ] Project
